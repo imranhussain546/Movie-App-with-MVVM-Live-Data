@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/drawable/edit_bg.xml" value="0.2123076923076923" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/drawable/ic_baseline_notes.xml" value="0.2123076923076923" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/drawable/ic_favorite_border_black.xml" value="0.2123076923076923" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/drawable/ic_home_black.xml" value="0.109375" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/drawable/ic_search_black.xml" value="0.2123076923076923" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.10280797101449275" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/layout/fragment_home.xml" value="0.10280797101449275" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/layout/header_navigation_drawer.xml" value="0.10280797101449275" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/layout/item_my_list.xml" value="0.10280797101449275" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/menu/drawer_view.xml" value="0.1" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/menu/main_menu.xml" value="0.1824074074074074" />
+        <entry key="..\:/apps/MyApplication2/app/src/main/res/menu/menu_detail.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
